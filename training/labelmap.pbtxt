@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'Malaria_Detected'
+}
+
+item {
+  id: 2
+  name: 'Healthy_WBC'
+}
